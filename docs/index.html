@@ -1,78 +1,403 @@
 <html>
 <head>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.7/dist/semantic.min.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="static/style.css">
     <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.7/dist/semantic.min.js"></script>
     <title>Summer School in Experimental Methods & Simulations in Social and Cognitive Science (EMS-SCS Summer School 2021)</title>
     <meta content="description" type="description">
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 </head>
 <body>
-    <div class="ui inverted vertical masthead center aligned segment">
-        <div class="ui container menu-wrapper">
-            <div class="ui fluid four item huge inverted secondary pointing menu">
-                <a class="item">
-                    About
-                </a>
-                <a class="item">
-                    News
-                </a>
-                <div class="ui dropdown item">
-                    Program <i class="dropdown icon"></i>
-                    <div class="menu">
-                        <a class="item">Topics</a>
-                        <a class="item">Schedule</a>
-                        <a class="item">Speakers</a>
-                        <a class="item">Courses</a>
-                        <a class="item">Project Work</a>
+    <div class="ui vertical segment">
+        <div class="ui grid container">
+            <div class="ui fluid huge secondary menu">
+                <span class="header item">
+                    <img class="ui logo medium image" src="static/logo/logo.png" id="logo" alt="Laboratory for Social and Cognitive Informatics">
+                </span>
+                <div class="right menu">
+                    <a class="item" href="#about">
+                        About
+                    </a>
+                    <a class="item" href="#news">
+                        News
+                    </a>
+                    <div class="ui dropdown item">
+                        Program <i class="dropdown icon"></i>
+                        <div class="menu">
+                            <a class="item">Topics</a>
+                            <a class="item">Schedule</a>
+                            <a class="item">Speakers</a>
+                            <a class="item">Courses</a>
+                            <a class="item">Project Work</a>
+                        </div>
                     </div>
-                </div>
-                <div class="ui dropdown item">
-                    Attending <i class="dropdown icon"></i>
-                    <div class="menu">
-                        <a class="item">Who can attend</a>
-                        <a class="item">Fees and registration</a>
-                        <a class="item">Online and offline</a>
+                    <div class="ui dropdown item">
+                        Attending <i class="dropdown icon"></i>
+                        <div class="menu">
+                            <a class="item">Who can attend</a>
+                            <a class="item">Fees and registration</a>
+                            <a class="item">Online and offline</a>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="ui text container hero">
-            <div class="hero-content">
-                <h1 class="ui inverted header">
+        <div class="ui two column middle aligned grid container hero">
+
+            <!-- FIRST COLUMN -->
+            <div class="ten wide column left aligned">
+                <h1 class="ui header">
                     Summer School
                     in Experimental Methods & Simulations
                     in Social and Cognitive Science
                     <br />
                     (EMS-SCS Summer School 2021) 
                 </h1>
-                <h2>
+                <h3>
                     Saint Petersburg, Russia
                     <br />
-                    July 1–8 , 2017
-                </h2>
+                    July 1–8 , 2021
+                </h3>
+                <div class="ui huge primary blue button">
+                    <i class="file alternate outline icon"></i>
+                    Call for Participation
+                </div>
             </div>
-            <div class="ui huge primary green button">
-                <i class="file alternate outline icon"></i>
-                Call for Participation
+
+            <!-- SECOND COLUMN -->
+            <div class="six wide column">
+                <div class="ui clearing middle aligned basic segment">
+                    <img class="ui right floated medium image" src="illustrations/analytics.svg">
+                </div>
             </div>
         </div>
     </div>
 
-    <div class="ui vertical stripe segment">
-        <div class="ui text container">
-            <h2 class="ui large centered header">About school</h3>
-            <p>
-                <span class="ui large text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                </span>
-            </p>
-            <div class="ui center aligned text container">
-                <a class="ui large button">Read More</a>
+    <div class="ui basic segment">
+        <div class="ui two column stackable grid container">
+            <div class="row">
+                <div class="column">
+                    <h2 id="about" class="ui header">
+                        <img class="ui huge image" src="static/icons/graduation-hat.svg">
+                        <div class="content">About school</div>
+                    </h2>
+                </div>
             </div>
-      </div>
+            <div class="middle aligned row">
+                <div class="column">
+                    <p>
+                        <span class="ui large text">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                        </span>
+                    </p>
+                    <div id="about-facts" class="ui huge list">
+                        <div class="item">
+                            <i class="map marker alternate icon"></i>
+                            <div class="content">
+                                Saint Petersburg (online + offline)
+                            </div>
+                        </div>
+                        <div class="ui  divider"></div>
+                        <div class="item">
+                            <i class="calendar alternate outline icon icon"></i>
+                            <div class="content">
+                                July 1-7, 2021
+                            </div>
+                        </div>
+                        <div class="ui  divider"></div>
+                        <div class="item">
+                            <i class="university icon"></i>
+                            <div class="content">
+                                Laboratory for Social and Cognitive Informatics,<br />Higher School of Economics
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="ui clearing middle aligned basic segment">
+                        <img class="ui right floated medium image" src="illustrations/undraw_Location_search_re_ttoj.svg">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
-    <script src="ui.js"></script>
+
+    <div class="ui section divider"></div>
+
+
+    <!-- NEWS -->
+    <div class="ui basic segment">
+        <div class="ui two column stackable grid container">
+            <div class="row">
+                <div class="column">
+                    <h2 id="about" class="ui header">
+                        <img class="ui huge image" src="static/icons/newspaper.svg">
+                        <div class="content">News</div>
+                    </h2>
+                </div>
+            </div>
+            <div class="ui hidden divider"></div>
+            <div class="row">
+                <div class="column">
+                    <div class="ui huge feed">
+                        <div class="event">
+                            <div class="content">
+                                <div class="summary">
+                                    School website created
+                                    <div class="date">
+                                        March 3, 2021
+                                    </div>
+                                </div>
+                                <div class="extra text">
+                                    Ours is a life of constant reruns. We're always circling back to where we'd we started, then starting all over again. Even if we don't run extra laps that day, we surely will come back for more of the same another day soon.
+                                </div>
+                                <div class="meta">
+                                    <a class="like">
+                                        <i class="like icon"></i> 4 Likes
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="ui huge feed">
+                        <div class="event">
+                            <div class="content">
+                                <div class="summary">
+                                    Call for participation announced
+                                    <div class="date">
+                                        March 1, 2021
+                                    </div>
+                                </div>
+                                <div class="extra text">
+                                    Ours is a life of constant reruns. We're always circling back to where we'd we started, then starting all over again. Even if we don't run extra laps that day, we surely will come back for more of the same another day soon.
+                                </div>
+                                <div class="meta">
+                                    <a class="like">
+                                        <i class="like icon"></i> 4 Likes
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="ui section divider"></div>
+
+
+    <!-- TOPICS -->
+    <div class="ui basic segment">
+        <div class="ui two column stackable grid container">
+            <div class="row">
+                <div class="column">
+                    <h2 id="about" class="ui header">
+                        <img class="ui huge image" src="static/icons/question.svg">
+                        <div class="content">Topics</div>
+                    </h2>
+                </div>
+            </div>
+            <div class="ui hidden divider"></div>
+            <div class="row">
+                <div class="column">
+                    <div class="ui huge feed">
+                        <div class="event">
+                            <div class="content">
+                                <div class="summary">
+                                    School website created
+                                </div>
+                                <div class="extra text">
+                                    Ours is a life of constant reruns. We're always circling back to where we'd we started, then starting all over again. Even if we don't run extra laps that day, we surely will come back for more of the same another day soon.
+                                </div>
+                                <div class="meta">
+                                    <a class="like">
+                                        <i class="like icon"></i> 4 Likes
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="ui huge feed">
+                        <div class="event">
+                            <div class="content">
+                                <div class="summary">
+                                    Call for participation announced
+                                </div>
+                                <div class="extra text">
+                                    Ours is a life of constant reruns. We're always circling back to where we'd we started, then starting all over again. Even if we don't run extra laps that day, we surely will come back for more of the same another day soon.
+                                </div>
+                                <div class="meta">
+                                    <a class="like">
+                                        <i class="like icon"></i> 4 Likes
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="ui section divider"></div>
+
+
+    <!-- SCHEDULE -->
+    <div class="ui basic segment">
+        <div class="ui stackable grid container">
+            <div class="row">
+                <div class="column">
+                    <h2 id="about" class="ui header">
+                        <img class="ui huge image" src="static/icons/calendar.svg">
+                        <div class="content">Schedule</div>
+                    </h2>
+                </div>
+            </div>
+            <div class="ui hidden divider"></div>
+            <div class="row">
+                <div class="column">
+                    <div class="ui tablet stackable huge steps">
+                        <div class="step">
+                            <i class="plane icon"></i>
+                            <div class="content">
+                            <div class="title">Shipping</div>
+                            <div class="description">Choose your shipping options</div>
+                            </div>
+                        </div>
+                        <div class="active step">
+                            <i class="dollar icon"></i>
+                            <div class="content">
+                            <div class="title">Billing</div>
+                            <div class="description">Enter billing information</div>
+                            </div>
+                        </div>
+                        <div class="disabled step">
+                            <i class="info circle icon"></i>
+                            <div class="content">
+                            <div class="title">Confirm Order</div>
+                            <div class="description">Verify order details</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <div class="ui section divider"></div>
+
+
+    <!-- SPEAKERS -->
+    <div class="ui basic segment">
+        <div class="ui two column stackable grid container">
+            <div class="row">
+                <div class="column">
+
+                    <h2 id="speakers" class="ui header">
+                        <img class="ui huge image" src="static/icons/chat.svg">
+                        <div class="content">Speakers</div>
+                    </h2>
+
+                    <div class="ui hidden divider"></div>
+                    <div class="ui hidden divider"></div>
+
+                    <div class="ui huge items">
+                        <div class="item">
+                            <div class="image">
+                                <img src="/images/wireframe/image.png">
+                            </div>
+                            <div class="content">
+                                <a class="header">Header</a>
+                                <div class="meta">
+                                    <span>Description</span>
+                                </div>
+                                <div class="description">
+                                    <p></p>
+                                </div>
+                                <div class="extra">
+                                    Additional Details
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="image">
+                                <img src="/images/wireframe/image.png">
+                            </div>
+                            <div class="content">
+                                <a class="header">Header</a>
+                                <div class="meta">
+                                    <span>Description</span>
+                                </div>
+                                <div class="description">
+                                    <p></p>
+                                </div>
+                                <div class="extra">
+                                    Additional Details
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+
+    <div class="ui inverted vertical footer segment">
+        <div class="ui center aligned container">
+        <div class="ui stackable inverted divided grid">
+            <div class="three wide column">
+            <h4 class="ui inverted header">Group 1</h4>
+            <div class="ui inverted link list">
+                <a href="#" class="item">Link One</a>
+                <a href="#" class="item">Link Two</a>
+                <a href="#" class="item">Link Three</a>
+                <a href="#" class="item">Link Four</a>
+            </div>
+            </div>
+            <div class="three wide column">
+            <h4 class="ui inverted header">Group 2</h4>
+            <div class="ui inverted link list">
+                <a href="#" class="item">Link One</a>
+                <a href="#" class="item">Link Two</a>
+                <a href="#" class="item">Link Three</a>
+                <a href="#" class="item">Link Four</a>
+            </div>
+            </div>
+            <div class="three wide column">
+            <h4 class="ui inverted header">Group 3</h4>
+            <div class="ui inverted link list">
+                <a href="#" class="item">Link One</a>
+                <a href="#" class="item">Link Two</a>
+                <a href="#" class="item">Link Three</a>
+                <a href="#" class="item">Link Four</a>
+            </div>
+            </div>
+            <div class="seven wide column">
+                <h4 class="ui inverted header">Footer Header</h4>
+                <p><div>Icons made by <a href="https://www.flaticon.com/authors/bqlqn" title="bqlqn">bqlqn</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div></p>
+            </div>
+        </div>
+        <div class="ui inverted section divider"></div>
+        <img src="static/logo/logo-inversed.png" class="ui centered medium image">
+        <div class="ui horizontal inverted small divided link list">
+            <a class="item" href="#">Contact Us</a>
+            <a class="item" href="#">Terms and Conditions</a>
+        </div>
+        </div>
+    </div>
+
+    <script src="static/ui.js"></script>
 </body>
 </html>

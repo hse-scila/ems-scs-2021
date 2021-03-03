@@ -1,0 +1,35 @@
+h1 {
+    font-size: 3em !important;
+}
+
+h2 {
+    font-size: 2.5em !important;
+}
+
+h3 {
+    font-size: 2em !important;
+}
+
+.ui.menu .header.item {
+    padding-left: 0
+}
+
+.hero {
+    padding: 8em 0 12em 0 !important;
+}
+
+.hero .huge.button {
+    margin-top: 1em;
+}
+
+.ui.basic.segment .ui.grid.container {
+    padding: 2em 0em;
+}
+
+.ui.basic.segment span {
+    line-height: 1.5em;
+}
+
+#about-facts {
+    margin-top: 2em
+}
