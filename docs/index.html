@@ -26,11 +26,11 @@
                     <div class="ui dropdown item">
                         Program <i class="dropdown icon"></i>
                         <div class="menu">
-                            <a class="item">Speakers and courses</a>
-                            <a class="item">Schedule</a>
+                            <a href="#speakers" class="item">Speakers and courses</a>
+                            <a href="#schedule" class="item">Schedule</a>
                         </div>
                     </div>
-                    <div class="ui dropdown item">
+                    <!-- <div class="ui dropdown item">
                         Attending <i class="dropdown icon"></i>
                         <div class="menu">
                             <a class="item">Who can attend</a>
@@ -38,7 +38,7 @@
                             <a class="item">How to apply</a>
                             <a class="item">Fees and registration</a>
                         </div>
-                    </div>
+                    </div> -->
                     <a class="item" href="#traveling">
                         Traveling
                     </a>
@@ -65,7 +65,7 @@
                 <h3>
                     Saint Petersburg, Russia
                     <br />
-                    July 1–8 , 2021
+                    July 13–22, 2021
                 </h3>
                 <div class="ui huge primary blue button">
                     <i class="file alternate outline icon"></i>
@@ -76,19 +76,19 @@
             <!-- SECOND COLUMN -->
             <div class="six wide column">
                 <div class="ui clearing middle aligned basic segment">
-                    <img class="ui right floated medium image" src="illustrations/analytics.svg">
+                    <img class="ui right floated medium image" alt="Analytics" src="illustrations/analytics.svg">
                 </div>
             </div>
         </div>
     </div>
 
     <div class="ui basic segment" id="about-section">
-        <div class="ui two column stackable grid container">
+        <div class="ui three column stackable grid container">
             <div class="center aligned row">
                 <div class="centered column">
                     <h2 id="about" class="ui header">
-                        <img class="ui huge image" src="static/icons/graduation-hat.svg">
-                        <div class="content">About school</div>
+                        <img class="ui huge image" alt="Graduation Hat" src="static/icons/graduation-hat.svg">
+                        <span class="content">About the school</span>
                     </h2>
                 </div>
             </div>
@@ -100,33 +100,65 @@
                     <div class="ui huge items">
                         <div class="item">
                             <div class="content">
-                                <a class="header">
+                                <span class="header">
                                     <i class="ui info circle icon"></i>
-                                    Concept
-                                </a>
+                                    Aim
+                                </span>
                                 <div class="description">
                                     <p>
-                                        The EMS-SCS Summer School 2021 is dedicated to
-                                        experimental methods in social and cognitive sciences.
+                                        EMS-SCS Summer School will introduce
+                                        participants to applications of
+                                        experimental methods across social,
+                                        behavioral and cognitive sciences while
+                                        also providing training in a number of
+                                        latest experimental and simulation tools
+                                        and techniques. 
                                     </p>
                                 </div>
                             </div>
-                          </div>
+                        </div>
                     </div>
                 </div>
+
                 <div class="column">
                     <div class="ui huge items">
                         <div class="item">
                             <div class="content">
-                                <a class="header">
-                                    <i class="calendar alternate outline icon icon"></i>
-                                    Program
-                                </a>
+                                <span class="header">
+                                    <i class="users icon"></i>
+                                    Audience
+                                </span>
                                 <div class="description">
                                     <p>
-                                        The School will consist of <a href="">N courses</a> including both
-                                        theoretical lectures and practical workshops.
-                                        The working language is English.
+                                        The school aims at scholars from across
+                                        a wide range of the aforementioned
+                                        disciplines who are relatively
+                                        experienced in research in their fields
+                                        but might be novel to experimental
+                                        methods and simulation. Advanced PhD
+                                        students are also welcome. 
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="column">
+                    <div class="ui huge items">
+                        <div class="item">
+                            <div class="content">
+                                <span href="#organizers" class="header">
+                                    <i class="university icon"></i>
+                                    Organizer
+                                </span>
+                                <div class="description">
+                                    <p>
+                                        Laboratory for Social and Cognitive
+                                        Informatics (SCILA) at the National
+                                        Research University Higher School of
+                                        Economics (HSE) in Saint Petersburg,
+                                        Russia.
                                     </p>
                                 </div>
                             </div>
@@ -135,27 +167,23 @@
                 </div>
             </div>
 
+            <div class="ui hidden divider"></div>
+
             <div class="row">
                 <div class="column">
                     <div class="ui huge items">
                         <div class="item">
                             <div class="content">
-                                <a class="header">
-                                    <i class="map marker alternate icon"></i>
-                                    Location and format
-                                </a>
+                                <span class="header">
+                                    <i class="calendar alternate outline icon icon"></i>
+                                    Dates
+                                </span>
                                 <div class="description">
                                     <p>
-                                        The summer school will be held in a <b>mixed format</b>.
-                                        Considering traveling limitations as well as health
-                                        risks during global pandemic, we expect most of
-                                        the participants and lecturers to join us online.
-                                        However, applicants who will have an opportunity
-                                        and a desire to participate offline, are welcome
-                                        to join us at the Higher School of Economics in
-                                        Saint Petersburg.
-                                        We will ensure that both online and offline
-                                        participants will have equal involvement in the discussion.
+                                        July 13-22, 2021.
+                                    </p>
+                                    <p>
+                                        See also our <a href="#schedule">Schedule</a> section.
                                     </p>
                                 </div>
                             </div>
@@ -166,17 +194,106 @@
                     <div class="ui huge items">
                         <div class="item">
                             <div class="content">
-                                <a href="#organizers" class="header">
-                                    <i class="university icon"></i>
-                                    Organizer
-                                </a>
+                                <span class="header">
+                                    <i class="map marker alternate icon"></i>
+                                    Location and format
+                                </span>
                                 <div class="description">
                                     <p>
-                                        Laboratory for Social and Cognitive Informatics (SCILA) at the National Research University Higher School of Economics (HSE) in Saint Petersburg, Russia.
+                                        The school will be <b>mostly online</b>, but
+                                        those students who are able and willing
+                                        to be on site will have an opportunity
+                                        to take classes in one of the HSE
+                                        buildings in Saint Petersburg, Russia and
+                                        to communicate informally between the
+                                        classes. One of the workshops will be
+                                        offline-only while online-only students
+                                        will be able to take a different
+                                        workshop at the same time.
                                     </p>
                                 </div>
                             </div>
-                          </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="column">
+                    <div class="ui huge items">
+                        <div class="item">
+                            <div class="content">
+                                <span class="header">
+                                    <i class="pen alternate icon"></i>
+                                    How to apply?
+                                </span>
+                                <div class="description">
+                                    <p>
+                                        To apply, please submit the following
+                                        <a href="">Google Form</a>. We kindly ask you to attach
+                                        your CV. After reviewing the
+                                        applications, we will notify the
+                                        participants about the acceptance. 
+                                    </p>
+                                    <p>
+                                        Registration link will be sent to the
+                                        participants via email after the
+                                        reviewing process is finished.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ui hidden divider"></div>
+
+            <div class="row">
+                <div class="column">
+                    <div class="ui huge items">
+                        <div class="item">
+                            <div class="content">
+                                <span class="header">
+                                    <i class="money check alternate icon"></i>
+                                    Fees
+                                </span>
+                                <div class="description">
+                                    <p>
+                                        Early registration and payment deadline — ????
+                                        <br/>
+                                        Fee: ????
+                                    </p>
+                                    <p>
+                                        Later registration and payment deadline — ????
+                                        <br/>
+                                        Fee: ????
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="ui huge items">
+                        <div class="item">
+                            <div class="content">
+                                <span class="header">
+                                    <i class="times circle outline icon"></i>
+                                    Cancellation rules
+                                </span>
+                                <div class="description">
+                                    <p>
+                                        If you need to cancel your registration,
+                                        send us an email (do not forget to
+                                        include your full name). Please be aware
+                                        of our cancellation fees: 
+                                    </p>
+                                    <ul class="ui list">
+                                        <li>Cancellation fee until [date]: 30% of payment.</li>
+                                        <li>Cancellation fee after [date]: 100% of payment.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -192,9 +309,9 @@
         <div class="ui two column stackable grid container">
             <div class="center aligned row">
                 <div class="centered column">
-                    <h2 id="about" class="ui header">
-                        <img class="ui huge image" src="static/icons/newspaper.svg">
-                        <div class="content">News</div>
+                    <h2 id="news" class="ui header">
+                        <img class="ui huge image" alt="Newspaper" src="static/icons/newspaper.svg">
+                        <span class="content">News</span>
                     </h2>
                 </div>
             </div>
@@ -228,6 +345,8 @@
                             <div class="content">
                                 <div class="summary">
                                     Apply for the EMS-SCS Summer School 2021
+                                </div>
+                                <div class="meta">
                                     <div class="date">
                                         March 1, 2021
                                     </div>
@@ -235,14 +354,9 @@
                                 <div class="extra text">
                                     We are announcing the first call for
                                     participants of the EMS-SCS Summer School 2021,
-                                    which will be held on [dates].
+                                    which will be held on July, 13-22.
                                     You can apply using a Google Form.
                                     Please, check out information on the requirements and the program.
-                                </div>
-                                <div class="meta">
-                                    <a class="like">
-                                        <i class="like icon"></i> 4 Likes
-                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -261,9 +375,9 @@
         <div class="ui stackable grid container">
             <div class="center aligned row">
                 <div class="centered column">
-                    <h2 id="about" class="ui header">
-                        <img class="ui huge image" src="static/icons/calendar.svg">
-                        <div class="content">Schedule</div>
+                    <h2 id="schedule" class="ui header">
+                        <img class="ui huge image" alt="Calendar" src="static/icons/calendar.svg">
+                        <span class="content">Schedule</span>
                     </h2>
                 </div>
             </div>
@@ -313,13 +427,12 @@
             <div class="center aligned row">
                 <div class="centered column">
                     <h2 id="speakers" class="ui header">
-                        <img class="ui huge image" src="static/icons/chat.svg">
-                        <div class="content">Speakers</div>
+                        <img class="ui huge image" alt="Chat" src="static/icons/chat.svg">
+                        <span class="content">Speakers and courses</span>
                     </h2>
                 </div>
             </div>
 
-            <div class="ui hidden section divider"></div>
             <div class="ui hidden section divider"></div>
 
             <div class="row">
@@ -327,14 +440,16 @@
                     <div class="ui huge items">
                         <div class="item">
                             <div class="ui small circular image">
-                                <img src="static/photo/sanders.jpg">
+                                <img alt="Meghan Sanders" src="static/photo/sanders.jpg">
                             </div>
                             <div class="content">
                                 <span class="header">Meghan Sanders</span>
                                 <div class="meta">
-                                    <span>Associate Professor and Director of Media Effects Lab at
-                                        Manship School of Mass Communication,
-                                        Louisiana State University, USA</span>
+                                    <span>
+                                        Senior Professor at the Division of Training and Movement Science,
+                                        former chair of the Division of Cognitive Psychology,
+                                        University of Potsdam, Germany
+                                    </span>
                                 </div>
                                 <div class="description">
                                     <p>
@@ -355,15 +470,15 @@
                     <div class="ui huge items">
                         <div class="item">
                             <div class="ui small circular image">
-                                <img src="static/photo/gorbunova.jpg">
+                                <img alt="Elena Gorbunova" src="static/photo/gorbunova.jpg">
                             </div>
                             <div class="content">
                                 <span class="header">Elena Gorbunova</span>
                                 <div class="meta">
                                     <span>
-                                        Director of Laboratory for Cognitive Psychology of
-                                        Digital Interface Users,
-                                        Higher School of Economics, Moscow, Russia</span>
+                                        Senior Researcher at the Institute for Cognitive Studies,
+                                        Saint Petersburg State University, Russia
+                                    </span>
                                 </div>
                                 <div class="description">
                                     <p>
@@ -381,7 +496,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <div class="ui hidden section divider"></div>
 
             <div class="row">
@@ -389,15 +504,14 @@
                     <div class="ui huge items">
                         <div class="item">
                             <div class="ui small circular image">
-                                <img src="static/photo/benjumea.jpg">
+                                <img alt="Amalia Álvarez Benjumea" src="static/photo/benjumea.jpg">
                             </div>
                             <div class="content">
                                 <span class="header">Amalia Álvarez Benjumea</span>
                                 <div class="meta">
-                                    <span>
-                                        Senior Research Fellow at Max Planck Institute
-                                        for Research on Collective Goods, Bonn, Germany
-                                    </span>
+                                    <span>Associate Professor and Director of Media Effects Lab at
+                                        Manship School of Mass Communication,
+                                        Louisiana State University, USA</span>
                                 </div>
                                 <div class="description">
                                     <p>
@@ -414,20 +528,19 @@
                         </div>
                     </div>
                 </div>
-
                 <div class="column">
                     <div class="ui huge items">
                         <div class="item">
                             <div class="ui small circular image">
-                                <img src="static/photo/lukac.png">
+                                <img alt="Martin Lukac" src="static/photo/lukac.png">
                             </div>
                             <div class="content">
                                 <span class="header">Martin Lukac</span>
                                 <div class="meta">
                                     <span>
-                                        LSE Fellow in Computational Social Science in
-                                        Methodology Department, London School of Economics, UK
-                                    </span>
+                                        Director of Laboratory for Cognitive Psychology of
+                                        Digital Interface Users,
+                                        Higher School of Economics, Moscow, Russia</span>
                                 </div>
                                 <div class="description">
                                     <p>
@@ -445,7 +558,7 @@
                     </div>
                 </div>
             </div>
-
+            
             <div class="ui hidden section divider"></div>
 
             <div class="row">
@@ -453,15 +566,14 @@
                     <div class="ui huge items">
                         <div class="item">
                             <div class="ui small circular image">
-                                <img src="static/photo/kliegl.jpg">
+                                <img alt="Reinhold Kliegl" src="static/photo/kliegl.jpg">
                             </div>
                             <div class="content">
                                 <span class="header">Reinhold Kliegl</span>
                                 <div class="meta">
                                     <span>
-                                        Senior Professor at the Division of Training and Movement Science,
-                                        former chair of the Division of Cognitive Psychology,
-                                        University of Potsdam, Germany
+                                        Senior Research Fellow at Max Planck Institute
+                                        for Research on Collective Goods, Bonn, Germany
                                     </span>
                                 </div>
                                 <div class="description">
@@ -479,18 +591,19 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="column">
                     <div class="ui huge items">
                         <div class="item">
                             <div class="ui small circular image">
-                                <img src="static/photo/alexeeva.jpg">
+                                <img alt="Svetlana Alexeeva" src="static/photo/alexeeva.jpg">                                
                             </div>
                             <div class="content">
                                 <span class="header">Svetlana Alexeeva</span>
                                 <div class="meta">
                                     <span>
-                                        Senior Researcher at the Institute for Cognitive Studies,
-                                        Saint Petersburg State University, Russia
+                                        LSE Fellow in Computational Social Science in
+                                        Methodology Department, London School of Economics, UK
                                     </span>
                                 </div>
                                 <div class="description">
@@ -509,19 +622,20 @@
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
 
     <div class="ui section divider"></div>
 
     <!-- TOPICS -->
-    <div class="ui basic segment" id="topics-section">
+    <!-- <div class="ui basic segment" id="topics-section">
         <div class="ui two column stackable grid container">
             <div class="row">
                 <div class="column">
-                    <h2 id="about" class="ui header">
-                        <img class="ui huge image" src="static/icons/question.svg">
-                        <div class="content">Topics</div>
+                    <h2 id="topics" class="ui header">
+                        <img alt="Question" class="ui huge image" src="static/icons/question.svg">
+                        <span class="content">Topics</span>
                     </h2>
                 </div>
             </div>
@@ -569,33 +683,55 @@
         </div>
     </div>
 
-    <div class="ui divider"></div>
+    <div class="ui divider"></div> -->
 
     <!-- SCHEDULE -->
-    <div class="ui basic segment" id="schedule-section">
-        <div class="ui stackable grid container">
+    <div class="ui basic segment" id="traveling-section">
+        <div class="ui two column stackable grid container">
             <div class="center aligned row">
                 <div class="centered column">
-                    <h2 id="about" class="ui header">
+                    <h2 id="traveling" class="ui header">
                         <i class="plane arrival icon"></i> 
                         Traveling
                     </h2>
                 </div>
             </div>
+
             <div class="ui hidden divider"></div>
+
             <div class="row">
-                <div class="centered eight ten wide column">
-                    <div>
-                        <p>
-                            <span class="ui large text">
-                                Unfortunately, due to the global pandemic of COVID-19, we cannot expect all of the participants to attend the School offline given the existing traveling restrictions. However, if you are able and willing to come, we will be pleased to welcome you at the Higher School of Economics in Saint Petersburg.
-                            </span>    
-                        </p>
-                        <p>
-                            <span class="ui large text">
-                                Although we strongly hope that we will have more traveling opportunities by the time of our school, we cannot guarantee international participants a possibility to issue a visa on a short notice. Thus, if you need a visa to enter Russia but it might be challenging to get in on time, we advise you to participate online in order to avoid potential difficulties. We hope for your understanding and will answer any further questions regarding the possibility of your visit.
-                            </span>
-                        </p>
+                <div class="column">
+                    <p>
+                        <span class="ui large text">
+                            Unfortunately, due to the global pandemic of
+                            COVID-19, we cannot expect all of the
+                            participants to attend the School offline given
+                            the existing traveling restrictions. However, if
+                            you are able and willing to come, we will be
+                            pleased to welcome you at Higher School of
+                            Economics in Saint Petersburg.
+                        </span>    
+                    </p>
+                    <p>
+                        <span class="ui large text">
+                            Although we strongly hope that we will have more
+                            traveling opportunities by the time of our
+                            school, we cannot guarantee international
+                            participants a possibility to issue a visa on a
+                            short notice. Thus, if you need a visa to enter
+                            Russia but it might be challenging to get in on
+                            time, we advise you to participate online in
+                            order to avoid potential difficulties. We hope
+                            for your understanding and will answer any
+                            further questions regarding the possibility of
+                            your visit.
+                        </span>
+                    </p>
+                </div>
+
+                <div class="center middle aligned column">
+                    <div class="ui centered large image">
+                        <img alt="Traveling" src="illustrations/world.svg">
                     </div>
                 </div>
             </div>
@@ -620,8 +756,9 @@
             
             <div class="middle aligned row">
                 <div class="center aligned six wide column">
-                    <div class="ui small image">
-                        <img src="static/logo/logo-vertical.png" alt="SCILA" />
+                    <div class="ui small images">
+                        <img src="static/logo/logo-vertical.png" alt="SCILA logo">
+                        <img src="static/logo/hse-logo.png" alt="HSE logo">
                     </div>
                 </div>
                 <div class="ten wide column">
@@ -645,11 +782,11 @@
     <div class="ui divider"></div>
 
     <!-- SCHEDULE -->
-    <div class="ui basic segment" id="schedule-section">
+    <div class="ui basic segment" id="contacts-section">
         <div class="ui stackable grid container">
             <div class="center aligned row">
                 <div class="centered column">
-                    <h2 id="organizers" class="ui header">
+                    <h2 id="contacts" class="ui header">
                         <i class="envelope outline icon"></i>
                         Contacts
                     </h2>
@@ -673,46 +810,52 @@
         <div class="ui center aligned container">
         <div class="ui stackable inverted divided grid">
             <div class="three wide column">
-            <h4 class="ui inverted header">Group 1</h4>
-            <div class="ui inverted link list">
-                <a href="#" class="item">Link One</a>
-                <a href="#" class="item">Link Two</a>
-                <a href="#" class="item">Link Three</a>
-                <a href="#" class="item">Link Four</a>
-            </div>
-            </div>
-            <div class="three wide column">
-            <h4 class="ui inverted header">Group 2</h4>
-            <div class="ui inverted link list">
-                <a href="#" class="item">Link One</a>
-                <a href="#" class="item">Link Two</a>
-                <a href="#" class="item">Link Three</a>
-                <a href="#" class="item">Link Four</a>
-            </div>
+                <h4 class="ui inverted header">Group 1</h4>
+                <div class="ui inverted link list">
+                    <a href="#" class="item">Link One</a>
+                    <a href="#" class="item">Link Two</a>
+                    <a href="#" class="item">Link Three</a>
+                    <a href="#" class="item">Link Four</a>
+                </div>
             </div>
             <div class="three wide column">
-            <h4 class="ui inverted header">Group 3</h4>
-            <div class="ui inverted link list">
-                <a href="#" class="item">Link One</a>
-                <a href="#" class="item">Link Two</a>
-                <a href="#" class="item">Link Three</a>
-                <a href="#" class="item">Link Four</a>
+                <h4 class="ui inverted header">Group 2</h4>
+                <div class="ui inverted link list">
+                    <a href="#" class="item">Link One</a>
+                    <a href="#" class="item">Link Two</a>
+                    <a href="#" class="item">Link Three</a>
+                    <a href="#" class="item">Link Four</a>
+                </div>
             </div>
+            <div class="three wide column">
+                <h4 class="ui inverted header">Group 3</h4>
+                <div class="ui inverted link list">
+                    <a href="#" class="item">Link One</a>
+                    <a href="#" class="item">Link Two</a>
+                    <a href="#" class="item">Link Three</a>
+                    <a href="#" class="item">Link Four</a>
+                </div>
             </div>
             <div class="seven wide column">
                 <h4 class="ui inverted header">Footer Header</h4>
-                <p><div>Icons made by <a href="https://www.flaticon.com/authors/bqlqn" title="bqlqn">bqlqn</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div></p>
+                <div>
+                    Icons made by <a
+                    href="https://www.flaticon.com/authors/bqlqn"
+                    title="bqlqn">bqlqn</a> from <a
+                    href="https://www.flaticon.com/"
+                    title="Flaticon">www.flaticon.com</a>
+                </div>
             </div>
         </div>
         <div class="ui inverted section divider"></div>
-        <img src="static/logo/logo-inversed.png" class="ui centered medium image">
-        <div class="ui horizontal inverted small divided link list">
-            <a class="item" href="#">Contact Us</a>
-            <a class="item" href="#">Terms and Conditions</a>
-        </div>
+            <img src="static/logo/logo-inversed.png" alt="SCILA logo" class="ui centered medium image">
+            <div class="ui horizontal inverted small divided link list">
+                <a class="item" href="#">Contact Us</a>
+                <a class="item" href="#">Terms and Conditions</a>
+            </div>
         </div>
     </div>
 
-    <script src="static/ui.js"></script>
+<script src="static/ui.js"></script>
 </body>
 </html>

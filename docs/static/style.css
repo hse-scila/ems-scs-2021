@@ -33,3 +33,8 @@ h3 {
 #about-facts {
     margin-top: 2em
 }
+
+.ui.images img + img {
+    margin-left: 3em;
+    margin-right: 3em;
+}
