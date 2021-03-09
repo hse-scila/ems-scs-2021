@@ -12,7 +12,20 @@
 </head>
 <body>
     <div id="hero-section" class="ui vertical segment">
-        <div class="ui grid container">
+        <div class="ui grid tablet only mobile only container">
+            <div class="ui huge secondary menu">
+                <a class="toc item">
+                    <i class="sidebar icon"></i>
+                </a>
+                <a class="item">
+                    Summer School
+                </a>
+                <div class="right item">
+                    <a class="ui inverted button">About</a>
+                </div>
+            </div>
+        </div>
+        <div class="ui grid computer only container">
             <div class="ui fluid huge secondary menu">
                 <span class="header item">
                     <img class="ui logo medium image" src="static/logo/logo.png" id="logo" alt="Laboratory for Social and Cognitive Informatics">
@@ -63,7 +76,35 @@
                 </div>
             </div>
         </div>
-        <div class="ui two column middle aligned grid container hero">
+        <div class="ui two column middle aligned grid tablet only computer only container hero">
+
+            <!-- FIRST COLUMN -->
+            <div class="ten wide column left aligned">
+                <h1 class="ui header">
+                    Summer School
+                    in Experimental Methods & Simulations
+                    in Social and Cognitive Science
+                    (EMS-SCS 2021)
+                </h1>
+                <h3>
+                    Saint Petersburg, Russia
+                    <br />
+                    July 13–22, 2021
+                </h3>
+                <div class="ui huge primary blue button">
+                    <i class="file alternate outline icon"></i>
+                    Call for Participation
+                </div>
+            </div>
+
+            <!-- SECOND COLUMN -->
+            <div class="six wide column">
+                <div class="ui clearing middle aligned basic segment">
+                    <img class="ui right floated medium image" alt="Analytics" src="illustrations/analytics.svg">
+                </div>
+            </div>
+        </div>
+        <div class="ui middle aligned grid tablet only container hero">
 
             <!-- FIRST COLUMN -->
             <div class="ten wide column left aligned">
@@ -266,7 +307,7 @@
                                         the World Bank's indicators of Gross National Income.
                                         You can read more about <a href="/tier.html">tier system</a>.
                                     </p>
-                                    <table class="ui very basic celled table">
+                                    <table class="ui very basic celled unstackable table">
                                         <thead>
                                             <tr>
                                                 <th></th>
