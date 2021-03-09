@@ -14,6 +14,10 @@ h3 {
     padding-left: 0
 }
 
+#hero-section {
+    border-bottom: 0px;
+}
+
 .hero {
     padding: 8em 0 12em 0 !important;
 }
@@ -30,8 +34,18 @@ h3 {
     line-height: 1.5em;
 }
 
-#about-facts {
-    margin-top: 2em
+#about-section {
+    border-top: 1px solid rgba(34,36,38,.15);
+    border-bottom: 1px solid rgba(34,36,38,.15);
+    background-color: #fff0db;
+    padding: 2em 0;
+}
+
+#news-section {
+    background-color: #dfe49b;
+    border-top: 1px solid rgba(34,36,38,.15);
+    border-bottom: 1px solid rgba(34,36,38,.15);
+    padding: 2em 0;
 }
 
 .ui.images img + img {
