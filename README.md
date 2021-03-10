@@ -1,5 +1,9 @@
 # Summer School in Experimental Methods & Simulations in Social and Cognitive Science (EMS-SCS 2021)
 
+*Dates: July 13-22, 2021*
+
+*Mixed format: online and offline in Saint Petersburg, Russia*
+
 ## About the school
 
 ### Focus
