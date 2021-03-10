@@ -54,16 +54,15 @@ timeslots = {
 var timezones_values = Object.keys(timeslots).map(x => {return {"name" : x, "value": x}});
 timezones_values[3].selected = true;
 
-$("#timezones")
+$("#timezones,#timezones-mobile")
     .dropdown({
         values: timezones_values,
         onChange: function(_, text, _) {
             var slots = timeslots[text];
-            $("#week-1-table tr td:first-child").each(function(index) {
-                $(this).text(slots[index]);
-            });
-            $("#week-2-table tr td:first-child").each(function(index) {
-                $(this).text(slots[index]);
+            $("#schedule-section table").each(function(_, table) {
+                $(table).find('tr td:first-child').each(function(j, td) {
+                    $(td).text(slots[j]);
+                });
             });
         }
     })
