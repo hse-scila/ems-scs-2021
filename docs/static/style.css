@@ -14,16 +14,25 @@ h3 {
     padding-left: 0
 }
 
+.ui.sidebar.menu {
+    font-size: 1.5em
+}
+
 #hero-section {
     border-bottom: 0px;
 }
 
 .hero {
-    padding: 8em 0 12em 0 !important;
+    padding: 10em 0 8em 0 !important;
 }
 
 .hero .huge.button {
     margin-top: 1em;
+}
+
+.mobile.only.hero {
+    font-size: 0.75em;
+    padding: 4em 0 3em 0 !important;
 }
 
 .ui.basic.segment .ui.grid.container {
@@ -53,3 +62,4 @@ h3 {
     margin-left: 3em;
     margin-right: 3em;
 }
+
