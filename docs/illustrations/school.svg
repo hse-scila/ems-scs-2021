@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="b42fa47e-1c96-4065-899a-c733dc223382"
+   data-name="Layer 1"
+   width="690"
+   height="448.7592"
+   viewBox="0 0 690 448.7592"
+   version="1.1"
+   sodipodi:docname="school.svg"
+   inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+   inkscape:export-xdpi="299.9202"
+   inkscape:export-ydpi="299.9202"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata627">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs625" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1364"
+     inkscape:window-height="712"
+     id="namedview623"
+     showgrid="false"
+     inkscape:zoom="0.89499372"
+     inkscape:cx="354.23753"
+     inkscape:cy="249.69006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="b42fa47e-1c96-4065-899a-c733dc223382" />
+  <path
+     d="M466.81292,645.7313c4.66847-10.08358,9.33339-20.31666,11.35946-31.24223s1.17569-22.78293-4.627-32.25932-17.22813-15.90241-28.13153-13.76022c-8.95532,1.75945-16.14605,8.81268-20.35651,16.90992S419.15759,602.60959,417.52,611.588c-.52917-10.2001-1.0896-20.56436-4.478-30.19975s-10.06045-18.61463-19.5694-22.34313-21.87886-.79648-26.89061,8.1032c-7.06074,12.53818,2.30155,30.12541-5.81734,42.0058-1.39265-11.917-13.85471-21.33234-25.69879-19.4159s-20.70109,14.78128-18.2646,26.5294c1.44978,6.99047,6.21931,12.93631,11.92156,17.232s12.33421,9.27436,18.89475,12.09Z"
+     transform="translate(-255 -225.6204)"
+     fill="#f2f2f2"
+     id="path518"
+     style="stroke:none;fill:#f0f0f0;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M323.01987,598.15781c9.40825,3.28851,18.903,6.61425,27.49226,11.75558,7.698,4.60786,14.553,10.81187,18.88231,18.7569a33.35556,33.35556,0,0,1,4.12583,13.85861c.06251,1.01759,1.65458,1.02469,1.59164,0-.55661-9.061-4.97238-17.353-11.087-23.91075-6.704-7.18984-15.39158-12.10041-24.3611-15.91043-5.31821-2.259-10.76859-4.17895-16.2208-6.08468-.96887-.33866-1.3854,1.19842-.42311,1.53477Z"
+     transform="translate(-255 -225.6204)"
+     fill="#fff"
+     id="path520"
+     style="stroke:none"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M377.28745,560.62486a143.38254,143.38254,0,0,1,13.79113,30.61557,145.11672,145.11672,0,0,1,6.361,32.96846,143.30543,143.30543,0,0,1,.15151,18.83685c-.05905,1.02328,1.53278,1.01989,1.59163,0a145.1941,145.1941,0,0,0-2.04032-33.82049,146.92647,146.92647,0,0,0-9.769-32.44022,143.25,143.25,0,0,0-8.71162-16.9635.79641.79641,0,0,0-1.37432.80333Z"
+     transform="translate(-255 -225.6204)"
+     fill="#fff"
+     id="path522"
+     style="stroke:none"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M455.188,569.76743a232.04359,232.04359,0,0,0-17.11648,57.57847q-1.34225,8.36487-2.07791,16.81182c-.089,1.02023,1.50317,1.01426,1.59163,0a231.20919,231.20919,0,0,1,12.73788-58.02528q2.83382-7.89209,6.23921-15.56169c.412-.92791-.959-1.73862-1.37433-.80332Z"
+     transform="translate(-255 -225.6204)"
+     fill="#fff"
+     id="path524"
+     style="stroke:none"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <rect
+     x="709.17625"
+     y="639.47815"
+     width="9.88235"
+     height="46.58824"
+     transform="translate(1112.59535 -285.4804) rotate(89.25872)"
+     fill="#e6e6e6"
+     id="rect526"
+     style="stroke:none;fill:#c8c8c8;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M754.02652,669.61624l-6.65257-.0194-4.11239-7.33712,4.445-7.31237,6.1811.01792a11.99893,11.99893,0,1,0,.13889,14.651Z"
+     transform="translate(-255 -225.6204)"
+     fill="#e6e6e6"
+     id="path528"
+     style="stroke:none;fill:#c8c8c8;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M674.20833,669.61624l6.65258-.0194,4.11239-7.33712-4.445-7.31237-6.18109.01792a11.99892,11.99892,0,1,1-.1389,14.651Z"
+     transform="translate(-255 -225.6204)"
+     fill="#e6e6e6"
+     id="path530"
+     style="stroke:none;fill:#c8c8c8;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M944,646.58958H256a1,1,0,0,1,0-2H944a1,1,0,0,1,0,2Z"
+     transform="translate(-255 -225.6204)"
+     fill="#3f3d56"
+     id="path532"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <circle
+     cx="540.48622"
+     cy="197.96918"
+     r="33"
+     fill="#2f2e41"
+     id="circle534"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <polygon
+     points="553.859 383.226 556.401 395.219 603.871 391.124 600.12 373.423 553.859 383.226"
+     fill="#ffb8b8"
+     id="polygon536"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M789.18809,618.49673h38.53073a0,0,0,0,1,0,0v14.88687a0,0,0,0,1,0,0H804.07494a14.88685,14.88685,0,0,1-14.88685-14.88685v0A0,0,0,0,1,789.18809,618.49673Z"
+     transform="translate(108.71051 1320.97269) rotate(-101.96466)"
+     fill="#2f2e41"
+     id="path538"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <polygon
+     points="524.12 382.586 518.777 393.621 473.673 378.264 481.559 361.979 524.12 382.586"
+     fill="#ffb8b8"
+     id="polygon540"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M771.03745,617.45562h23.64388a0,0,0,0,1,0,0v14.88687a0,0,0,0,1,0,0H756.15059a0,0,0,0,1,0,0v0A14.88685,14.88685,0,0,1,771.03745,617.45562Z"
+     transform="translate(-379.9408 824.86818) rotate(-64.16458)"
+     fill="#2f2e41"
+     id="path542"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M690.25925,586.41362a10.74272,10.74272,0,0,0,12.70881-10.48016l74.37388-68.5711-18.47-14.30549-67.33743,71.94341a10.80091,10.80091,0,0,0-1.27527,21.41334Z"
+     transform="translate(-255 -225.6204)"
+     fill="#ffb8b8"
+     id="path544"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <circle
+     cx="536.34449"
+     cy="207.89831"
+     r="24.56103"
+     fill="#ffb8b8"
+     id="circle546"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M813.38612,577.89329c-17.22851.00049-37.978-3.62842-50.77856-18.477l-.28833-.33447.29663-.32813c.09668-.10693,9.51367-10.86865.11084-30.061L749.799,532.67015,736.9286,515.68138l7.12964-21.38916,29.17749-23.50391a26.75074,26.75074,0,0,1,14.6106-5.78906,80.21058,80.21058,0,0,0,27.78467-7.91309,27.906,27.906,0,0,1,12.7998-2.79834l.57373.01611a9.95022,9.95022,0,0,1,9.64063,10.70752c-1.97852,25.62989-5.47242,87.54346,4.7915,108.86133l.26514.55078-.59229.15039A136.1132,136.1132,0,0,1,813.38612,577.89329Z"
+     transform="translate(-255 -225.6204)"
+     fill="#6c63ff"
+     id="path548"
+     style="fill:#004f9e;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M765.98622,559.08958s-65-6-72,13,1,28,13,32,41,9,41,9l13-16,34,2s37.88482,21.9732,48.35975,45.47377A30.76193,30.76193,0,0,0,869.12343,662.802c8.398.58447,15.86279-2.5874,15.86279-15.7124,0-30-42-73-42-73Z"
+     transform="translate(-255 -225.6204)"
+     fill="#2f2e41"
+     id="path550"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M716.48622,588.58958s17-5,44,8"
+     transform="translate(-255 -225.6204)"
+     fill="#2f2e41"
+     id="path552"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M766.84286,417.85547a73.04115,73.04115,0,0,0,31.59919,10.4119l-3.33084-3.991a24.4775,24.4775,0,0,0,7.5611,1.50142,8.28066,8.28066,0,0,0,6.74954-3.15917,7.70229,7.70229,0,0,0,.51556-7.115,14.58851,14.58851,0,0,0-4.58936-5.7385,27.32286,27.32286,0,0,0-25.43066-4.54493,16.32974,16.32974,0,0,0-7.59542,4.8722,9.23578,9.23578,0,0,0-1.86256,8.56086"
+     transform="translate(-255 -225.6204)"
+     fill="#2f2e41"
+     id="path554"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M795.30911,398.22407A75.48468,75.48468,0,0,1,814.446,371.70269c5.292-4.70276,11.47246-8.74308,18.44626-9.9627s14.83309.86982,19.11055,6.51116c3.49772,4.613,4.15213,10.79276,3.76672,16.569s-1.67632,11.49651-1.5527,17.28428a35.46794,35.46794,0,0,0,50.52712,31.351c-6.02152,3.32885-10.714,8.59777-16.3048,12.60812s-12.96272,6.7601-19.31233,4.11012c-6.71812-2.80378-9.79963-10.41937-12.20607-17.28984L846.189,402.2443c-1.82434-5.20852-3.739-10.57156-7.462-14.6454s-9.76461-6.5568-14.88927-4.50871c-3.884,1.55225-6.41275,5.25755-8.63029,8.804s-4.557,7.31984-8.30359,9.17935-9.29837.7147-10.52292-3.28471"
+     transform="translate(-255 -225.6204)"
+     fill="#2f2e41"
+     id="path556"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <rect
+     x="802.91902"
+     y="543.31418"
+     width="9.88235"
+     height="46.58824"
+     transform="translate(-416.74744 524.13837) rotate(-45.74128)"
+     fill="#e6e6e6"
+     id="rect558"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M821.51005,579.90944a9.88235,9.88235,0,1,0,13.97459-.18081A9.88238,9.88238,0,0,0,821.51005,579.90944Zm10.111,9.8527a4.23529,4.23529,0,1,1-.07749-5.98911A4.2354,4.2354,0,0,1,831.62105,589.76214Z"
+     transform="translate(-255 -225.6204)"
+     fill="#e6e6e6"
+     id="path560"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M784.47962,533.54889l4.69037,4.7178-2.28023,8.096-8.3137,2.02755-4.358-4.38337a11.99891,11.99891,0,1,0,10.26158-10.458Z"
+     transform="translate(-255 -225.6204)"
+     fill="#e6e6e6"
+     id="path562"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M803.736,577.97923a11.579,11.579,0,0,1-1.26831-.07032,11.02341,11.02341,0,0,1-9.68018-9.68115,11.00337,11.00337,0,0,1,10.93115-12.25,10.62483,10.62483,0,0,1,1.46607.10938L838.76332,520.342l-3.50513-11.68457,17.605-7.8916,4.93384,12.06006a20.48972,20.48972,0,0,1-6.17724,23.67236l-36.96119,29.40088a10.25885,10.25885,0,0,1,.06006,1.07861,11.01824,11.01824,0,0,1-3.66382,8.19678A10.87186,10.87186,0,0,1,803.736,577.97923Z"
+     transform="translate(-255 -225.6204)"
+     fill="#ffb8b8"
+     id="path564"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M829.98622,459.08958h0a9.45335,9.45335,0,0,1,12.628,5.1563l17.372,43.84371-27,18Z"
+     transform="translate(-255 -225.6204)"
+     fill="#6c63ff"
+     id="path566"
+     style="fill:#004f9e;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M703.48622,469.32728V250.8827a25.29812,25.29812,0,0,0-25.2623-25.2623H334.95386a25.29813,25.29813,0,0,0-25.2623,25.2623V469.32728a25.29813,25.29813,0,0,0,25.2623,25.2623H678.22392A25.29812,25.29812,0,0,0,703.48622,469.32728ZM334.95386,491.61754a22.31743,22.31743,0,0,1-22.29026-22.29026V250.8827a22.31744,22.31744,0,0,1,22.29026-22.29027H678.22392a22.31744,22.31744,0,0,1,22.29027,22.29027V469.32728a22.31744,22.31744,0,0,1-22.29027,22.29026Z"
+     transform="translate(-255 -225.6204)"
+     fill="#3f3d56"
+     id="path568"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="M700.51419,264.92368H312.6636a1.486,1.486,0,1,1,0-2.972H700.51419a1.486,1.486,0,0,1,0,2.972Z"
+     transform="translate(-255 -225.6204)"
+     fill="#3f3d56"
+     id="path570"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <circle
+     cx="82.9259"
+     cy="20.80425"
+     r="7.43009"
+     fill="#6c63ff"
+     id="circle572"
+     style="fill:#004f9e;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <circle
+     cx="108.1882"
+     cy="20.80425"
+     r="7.43009"
+     fill="#6c63ff"
+     id="circle574"
+     style="fill:#004f9e;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <circle
+     cx="133.4505"
+     cy="20.80425"
+     r="7.43009"
+     fill="#6c63ff"
+     id="circle576"
+     style="fill:#004f9e;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="m 247.71045,109.39407 h -12 a 7,7 0 0 1 0,-14 h 12 a 7,7 0 0 1 0,14 z"
+     fill="#cccccc"
+     id="path596"
+     style="stroke:none;fill:#c8c8c8;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="m 329.71045,138.89407 h -12 a 7,7 0 0 1 0,-14 h 12 a 7,7 0 0 1 0,14 z"
+     fill="#cccccc"
+     id="path598"
+     style="stroke:none;fill:#c8c8c8;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="m 367.71045,138.89407 h -12 a 7,7 0 0 1 0,-14 h 12 a 7,7 0 0 1 0,14 z"
+     fill="#cccccc"
+     id="path600"
+     style="stroke:none;fill:#c8c8c8;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="m 405.71045,138.89407 h -12 a 7,7 0 0 1 0,-14 h 12 a 7,7 0 0 1 0,14 z"
+     fill="#cccccc"
+     id="path602"
+     style="stroke:none;fill:#c8c8c8;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="m 330.71045,109.89407 h -56 a 7,7 0 0 1 0,-14 h 56 a 7,7 0 0 1 0,14 z"
+     fill="#cccccc"
+     id="path604"
+     style="stroke:none;fill:#c8c8c8;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="m 291.71045,137.89407 h -56 a 7,7 0 0 1 0,-14 h 56 a 7,7 0 0 1 0,14 z"
+     fill="#cccccc"
+     id="path606"
+     style="stroke:none;fill:#c8c8c8;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="m 401.71045,109.89407 h -43 a 7,7 0 0 1 0,-14 h 43 a 7,7 0 0 1 0,14 z"
+     fill="#cccccc"
+     id="path608"
+     style="stroke:none;fill:#c8c8c8;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="m 247.71045,168.39407 h -12 a 7,7 0 0 1 0,-14 h 12 a 7,7 0 0 1 0,14 z"
+     fill="#cccccc"
+     id="path610"
+     style="stroke:none;fill:#c8c8c8;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="m 330.71045,168.89407 h -56 a 7,7 0 0 1 0,-14 h 56 a 7,7 0 0 1 0,14 z"
+     fill="#cccccc"
+     id="path612"
+     style="stroke:none;fill:#c8c8c8;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="m 401.71045,168.89407 h -43 a 7,7 0 0 1 0,-14 h 43 a 7,7 0 0 1 0,14 z"
+     fill="#cccccc"
+     id="path614"
+     style="stroke:none;fill:#c8c8c8;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="m 382.71045,192.39407 a 7.00786,7.00786 0 0 1 7,-7 h 12 a 7,7 0 0 1 0,14 h -12 a 7.00785,7.00785 0 0 1 -7,-7 z"
+     fill="#cccccc"
+     id="path616"
+     style="stroke:none;fill:#c8c8c8;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="m 299.71045,192.89407 a 7.00786,7.00786 0 0 1 7,-7 h 56 a 7,7 0 0 1 0,14 h -56 a 7.00785,7.00785 0 0 1 -7,-7 z"
+     fill="#cccccc"
+     id="path618"
+     style="stroke:none;fill:#c8c8c8;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="m 228.71045,192.89407 a 7.00786,7.00786 0 0 1 7,-7 h 43 a 7,7 0 0 1 0,14 h -43 a 7.00785,7.00785 0 0 1 -7,-7 z"
+     fill="#cccccc"
+     id="path620"
+     style="stroke:none;fill:#c8c8c8;fill-opacity:1"
+     inkscape:export-filename="/home/maxim/Git/ems-scs-2021/docs/illustrations/school.png"
+     inkscape:export-xdpi="299.9202"
+     inkscape:export-ydpi="299.9202" />
+  <path
+     d="m 153.73617,177.96592 c -0.39788,2.4361 -1.03009,4.7892 -1.88199,7.03978 l 7.6427,6.92507 c -1.07159,2.25546 -2.29207,4.42305 -3.70052,6.45883 l -9.81274,-3.16351 c -1.54758,1.89175 -3.28067,3.62241 -5.17243,5.16999 l 3.16351,9.81273 c -2.03578,1.40845 -4.20337,2.6265 -6.45883,3.70053 l -6.92506,-7.64271 c -2.25058,0.85191 -4.60125,1.48412 -7.03979,1.882 l -2.17979,10.09589 c -1.2327,0.0976 -2.47027,0.18795 -3.72982,0.18795 -1.25954,0 -2.49712,-0.0903 -3.73225,-0.18795 l -2.1798,-10.09589 c -2.43609,-0.39788 -4.7892,-1.03009 -7.03979,-1.882 l -6.925052,7.64271 c -2.255465,-1.07159 -4.423055,-2.29208 -6.458832,-3.70053 l 3.16351,-9.81273 c -1.89176,-1.54758 -3.622414,-3.28067 -5.169995,-5.16999 l -9.812738,3.16351 c -1.408444,-2.03578 -2.626493,-4.20337 -3.700524,-6.45883 l 7.642707,-6.92507 c -0.851903,-2.25058 -1.484116,-4.60125 -1.881996,-7.03978 l -10.095891,-2.17979 c -0.09764,-1.23514 -0.187955,-2.47272 -0.187955,-3.73226 0,-1.25955 0.09032,-2.49712 0.187955,-3.73226 l 10.095891,-2.1798 c 0.39788,-2.43609 1.030093,-4.7892 1.881996,-7.03978 l -7.642707,-6.92506 c 1.07159,-2.25546 2.29208,-4.42305 3.700524,-6.45883 l 9.812738,3.16351 c 1.547581,-1.89176 3.280676,-3.62241 5.172435,-5.17 l -3.163509,-9.81273 c 2.035777,-1.40845 4.203366,-2.62649 6.458831,-3.70053 l 6.925062,7.64271 c 2.25058,-0.8519 4.60125,-1.48412 7.03979,-1.882 l 2.17978,-10.09588 c 1.2327,-0.0976 2.47028,-0.18796 3.72982,-0.18796 1.25955,0 2.49712,0.0903 3.73226,0.18796 l 2.17979,10.09588 c 2.4361,0.39788 4.7892,1.0301 7.03979,1.882 l 6.92505,-7.64271 c 2.25547,1.0716 4.42306,2.29208 6.45883,3.70053 l -3.1635,9.81273 c 1.89176,1.54759 3.62241,3.28068 5.16999,5.17244 l 9.81274,-3.1635 c 1.40845,2.03577 2.6265,4.20336 3.70052,6.45883 l -7.6427,6.92505 c 0.8519,2.25059 1.48411,4.60125 1.88199,7.03979 l 10.09589,2.17979 c 0.0976,1.2327 0.18796,2.47027 0.18796,3.72982 0,1.25954 -0.0903,2.49712 -0.18796,3.73226 z m -36.09476,-30.32185 c -13.48153,0 -24.409791,10.92826 -24.409791,24.4098 0,13.48153 10.928261,24.40979 24.409791,24.40979 13.48153,0 24.40979,-10.92826 24.40979,-24.40979 0,-13.48154 -10.92826,-24.4098 -24.40979,-24.4098 z"
+     id="path647"
+     style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:2.441;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     d="m 187.59744,109.3329 c -0.38079,1.26198 -0.87875,2.47271 -1.49143,3.61265 l 3.8543,7.3864 c -1.30104,1.64522 -2.78516,3.12934 -4.43038,4.43038 l -7.3864,-3.85431 c -1.13994,0.61513 -2.35066,1.11309 -3.61265,1.49144 l -2.49956,7.9576 c -1.0301,0.12205 -2.06995,0.20016 -3.12934,0.20016 -1.05939,0 -2.09925,-0.0781 -3.1269,-0.19772 l -2.49956,-7.9576 c -1.26199,-0.37835 -2.47271,-0.87875 -3.61265,-1.49144 l -7.38641,3.85432 c -1.64521,-1.30106 -3.12933,-2.78517 -4.43037,-4.43039 l 3.85431,-7.3864 c -0.61513,-1.13994 -1.11309,-2.35066 -1.49144,-3.61265 l -7.9576,-2.49956 c -0.12204,-1.0301 -0.20016,-2.06995 -0.20016,-3.12934 0,-1.05938 0.0781,-2.09924 0.19773,-3.12689 l 7.95759,-2.499567 c 0.37835,-1.261987 0.87875,-2.472712 1.49143,-3.612649 l -3.8543,-7.386404 c 1.30104,-1.64522 2.78515,-3.129335 4.43038,-4.430376 l 7.3864,3.854305 c 1.13994,-0.615127 2.35066,-1.113087 3.61265,-1.491439 l 2.49956,-7.957591 c 1.03009,-0.122052 2.06995,-0.200162 3.12934,-0.200162 1.05939,0 2.09924,0.07811 3.12689,0.197716 l 2.49957,7.957596 c 1.26198,0.378352 2.47271,0.878753 3.61265,1.491439 l 7.3864,-3.854309 c 1.64522,1.301048 3.12933,2.785159 4.43038,4.430379 l -3.85431,7.386404 c 0.61513,1.139938 1.11309,2.350664 1.49144,3.61265 l 7.9576,2.499558 c 0.12204,1.0301 0.20015,2.06996 0.20015,3.12934 0,1.05939 -0.0781,2.09924 -0.19772,3.1269 z M 168.90198,93.942523 c -5.39212,0 -9.76392,4.371794 -9.76392,9.763917 0,5.39212 4.3718,9.76392 9.76392,9.76392 5.39212,0 9.76392,-4.3718 9.76392,-9.76392 0,-5.392123 -4.3718,-9.763917 -9.76392,-9.763917 z"
+     id="path649"
+     style="fill:#004f9e;fill-opacity:1;stroke:none;stroke-width:2.44098" />
+  <path
+     d="m 207.32056,164.41604 c -0.37591,1.35475 -0.90561,2.6387 -1.5842,3.83722 l 2.42877,5.11142 c -1.10332,1.40844 -2.37019,2.67531 -3.77864,3.77863 l -5.11141,-2.42877 c -1.19607,0.67858 -2.48247,1.20828 -3.83721,1.58419 l -1.89908,5.34086 c -0.87632,0.10741 -1.7624,0.1782 -2.668,0.1782 -0.9056,0 -1.79168,-0.0708 -2.66799,-0.1782 l -1.89908,-5.34086 c -1.35474,-0.37591 -2.6387,-0.90561 -3.83722,-1.58419 l -5.11141,2.42877 c -1.40844,-1.10332 -2.67531,-2.37019 -3.77863,-3.77863 l 2.42877,-5.11142 c -0.67859,-1.19608 -1.20829,-2.48247 -1.5842,-3.83477 l -5.34086,-1.89909 c -0.1074,-0.87875 -0.17819,-1.76483 -0.17819,-2.67043 0,-0.9056 0.0708,-1.79168 0.17819,-2.66799 l 5.34086,-1.89908 c 0.37591,-1.35475 0.90561,-2.6387 1.5842,-3.83478 l -2.42877,-5.11141 c 1.10332,-1.40845 2.37019,-2.67532 3.77863,-3.77864 l 5.11141,2.42878 c 1.19608,-0.6786 2.48248,-1.20829 3.83722,-1.5842 l 1.89908,-5.34086 c 0.87631,-0.10984 1.76239,-0.18063 2.66799,-0.18063 0.9056,0 1.79168,0.0708 2.668,0.17819 l 1.89908,5.34086 c 1.35474,0.37591 2.6387,0.9056 3.83721,1.58419 l 5.11141,-2.42877 c 1.40845,1.10333 2.67532,2.37019 3.77864,3.77864 l -2.42877,5.11141 c 0.67859,1.19608 1.20829,2.48247 1.5842,3.83722 l 5.34086,1.89908 c 0.1074,0.87631 0.17819,1.76239 0.17819,2.66799 0,0.9056 -0.0708,1.79168 -0.17819,2.66799 z m -16.44977,-11.89 c -4.0447,0 -7.32294,3.27823 -7.32294,7.32293 0,4.0447 3.27824,7.32294 7.32294,7.32294 4.04471,0 7.32295,-3.27824 7.32295,-7.32294 0,-4.0447 -3.27824,-7.32293 -7.32295,-7.32293 z"
+     id="path651"
+     style="fill:#3f3d56;fill-opacity:1;stroke:none;stroke-width:2.44098" />
+</svg>
