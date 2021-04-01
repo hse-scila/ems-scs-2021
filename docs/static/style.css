@@ -59,6 +59,10 @@ h3 {
     padding: 2em 0;
 }
 
+#news-section .summary {
+    line-height: 1.6em;
+}
+
 #travel-section {
     border-top: 1px solid rgba(34,36,38,.15);
     border-bottom: 1px solid rgba(34,36,38,.15);
