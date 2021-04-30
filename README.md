@@ -66,10 +66,6 @@ Please be aware of our refund policy:
 
 ## Instructors
 
-### [Meghan Sanders](https://www.lsu.edu/manship/people/faculty-staff/sanders.php)
-
-Associate Professor and Director of Media Effects Lab at Manship School of Mass Communication, Louisiana State University
-
 ### [Reinhold Kliegl](https://www.uni-potsdam.de/en/trainingswissenschaft/staff/rkliegl)
 
 Senior Professor at the Division of Training and Movement Science, former chair of the Division of Cognitive Psychology, University of Potsdam
@@ -107,14 +103,6 @@ This course will cover the design of online experiments, specifically focusing o
 
 This course will have a section introducing students to causal inference from experimental
 and quasi-experimental designs. Particularly, students will learn how to collect the data so as to establish that the relationship in question is causal.
-
-### Experiments in media and consumer studies
-
-*Instructor: Meghan Sanders*
-
-The course will cover a selection of specific topics, including repeated messages experimental designs, facial expression capture and eye-tracking for webpage perception research
-
-A more detailed description will be provided shortly. 
 
 ### Agent-based modeling
 
