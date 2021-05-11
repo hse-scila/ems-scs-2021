@@ -114,9 +114,7 @@ and quasi-experimental designs. Particularly, students will learn how to collect
 
 *Instructor: Martin Lukac*
 
-The course will introduce students to simulation as a research approach and make an overview of the NetLogo simulation environment, as well as touch on the aspects of complexity theory that are relevant for simulation.
-
-A more detailed description will be provided shortly. 
+Social simulations in virtual research environments allow researchers to gain new insights into the complex ways that societies function. In this course, we will introduce agent-based modelling as a theory-construction tool for the social sciences. We will cover both theoretical and practical aspects of agent-based modelling: starting with an introduction to complex adaptive systems and foundational agent-based models, up to more advanced simulation experiments and calibration methods. We will focus on social phenomena such as residential segregation, epidemiological and social contagion, and opinion polarization. We will introduce the NetLogo programming language and learn by modifying existing models from its library. No prior programming background is required, but participants should be ready to see and write some code during the course.
 
 ### Eye-Movement tracking for reading research (guest lecture)
 
