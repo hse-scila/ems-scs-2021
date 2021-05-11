@@ -86,6 +86,12 @@ Senior Research Fellow at Max Planck Institute for research on collective goods
 
 Senior Researcher at the Institute for Cognitive Studies, St.Petersburg State University
 
+### [Philipp Chapkovski](https://www.hse.ru/en/org/persons/224233351)
+
+Research Fellow,
+International Laboratory for Experimental and Behavioural Economics,
+Higher School of Economics, Russia]
+
 ## Courses
 
 ### Introduction to experimental psychology
@@ -130,9 +136,9 @@ This workshop will consist of a series of hands-on sessions designed to help lea
 
 Online experimentation has enabled relatively cheap and fast data collection on a massive scale, making familiarity with various toolkits for online experiments an indispensable skill for researchers. This tutorial offers an overview of one such platform, Pavlovia, which is based on the PsychoPy software package. Students will practice building their own experiments in PsychoPy and transferring them to Pavlovia.
 
-### O-Tree online tutorial (or a tutorial on a package for experimental data analysis or on games in experiments)
+### Studying social norms with behavioral experiments
 
-Instructor: TBA
+*Instructor: Philipp Chapkovski*
 
 ## Travel
 
