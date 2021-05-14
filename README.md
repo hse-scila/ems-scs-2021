@@ -70,6 +70,10 @@ Please be aware of our refund policy:
 
 Senior Professor at the Division of Training and Movement Science, former chair of the Division of Cognitive Psychology, University of Potsdam
 
+### [Meghan Sanders](https://www.lsu.edu/manship/people/faculty-staff/sanders.php)
+
+Associate Professor and Director of Media Effects Lab at Manship School of Mass Communication, Louisiana State University
+
 ### [Martin Lukac](https://www.lse.ac.uk/Methodology/People/Academic-Staff/Martin-Lukac/Martin-Lukac)
 
 LSE Fellow in Computational Social Science in the Methodology Department at the London School of Economics
@@ -98,43 +102,92 @@ Higher School of Economics, Russia]
 
 *Instructor: Elena Gorbunova*
 
-This course will cover the basics of experimental planning and execution, including theoretical questions, types of experimental designs and their comparative advantages and disadvantages, experimental validity, etc. When it comes to social sciences experimentation, a lot of difficult questions arise. How do I formulate the hypotheses of my experimental study? How do I choose the most appropriate design? What is the best way to define a sample? How to create the stimuli? Should I keep my experiment as simple as possible or should I try a complex design? We will review the aspects of experimental planning relevant for all social sciences, with the focus on studies in psychology.
+This course will cover the basics of experimental planning and execution,
+including theoretical questions, types of experimental designs and their
+comparative advantages and disadvantages, experimental validity, etc. When it
+comes to social sciences experimentation, a lot of difficult questions arise.
+How do I formulate the hypotheses of my experimental study? How do I choose the
+most appropriate design? What is the best way to define a sample? How to create
+the stimuli? Should I keep my experiment as simple as possible or should I try a
+complex design? We will review the aspects of experimental planning relevant for
+all social sciences, with the focus on studies in psychology.
 
+### Experiments in media and consumer studies
+
+*Instructor: Meghan Sanders*
+
+The course will cover a selection of specific topics, including repeated
+messages experimental designs, facial expression capture and eye-tracking for
+webpage perception research.
 
 ### Online experiments with examples from sociology and political science
 
 *Instructor: Amalia Alvarez*
 
-This course will cover the design of online experiments, specifically focusing on the implementation of online treatments and measurement of attitudinal and behavioral variables online. We will discuss the advantages of web-based designs for collecting data on a large scale, as well as for implementing the lab-in-the-field and natural experiments. The course will use examples from the existing research, but also give students a chance to participate in a real online experiment. Furthermore, the course will cover common problems and limitations of online experimentations and strategies of dealing with them. Specifically, we will talk about possible issues with data quality and participant motivation. Best practices of online research will also be discussed.
+This course will cover the design of online experiments, specifically focusing
+on the implementation of online treatments and measurement of attitudinal and
+behavioral variables online. We will discuss the advantages of web-based designs
+for collecting data on a large scale, as well as for implementing the
+lab-in-the-field and natural experiments. The course will use examples from the
+existing research, but also give students a chance to participate in a real
+online experiment. Furthermore, the course will cover common problems and
+limitations of online experimentations and strategies of dealing with them.
+Specifically, we will talk about possible issues with data quality and
+participant motivation. Best practices of online research will also be
+discussed.
 
-This course will have a section introducing students to causal inference from experimental
-and quasi-experimental designs. Particularly, students will learn how to collect the data so as to establish that the relationship in question is causal.
+This course will have a section introducing students to causal inference from
+experimental and quasi-experimental designs. Particularly, students will learn
+how to collect the data so as to establish that the relationship in question is
+causal.
 
 ### Agent-based modeling
 
 *Instructor: Martin Lukac*
 
-The course will introduce students to simulation as a research approach and make an overview of the NetLogo simulation environment, as well as touch on the aspects of complexity theory that are relevant for simulation.
-
-A more detailed description will be provided shortly. 
+Social simulations in virtual research environments allow researchers to gain
+new insights into the complex ways that societies function. In this course, we
+will introduce agent-based modelling as a theory-construction tool for the
+social sciences. We will cover both theoretical and practical aspects of
+agent-based modelling: starting with an introduction to complex adaptive systems
+and foundational agent-based models, up to more advanced simulation experiments
+and calibration methods. We will focus on social phenomena such as residential
+segregation, epidemiological and social contagion, and opinion polarization. We
+will introduce the NetLogo programming language and learn by modifying existing
+models from its library. No prior programming background is required, but
+participants should be ready to see and write some code during the course.
 
 ### Eye-Movement tracking for reading research (guest lecture)
 
 *Lecturer: Reinhold Kliegl*
 
-The lecture will cover the basic assumptions and rationale of eye-tracking research of reading, introduce the students to its main experimental paradigms and the basic approaches to data collection and reduction. 
+The lecture will cover the basic assumptions and rationale of eye-tracking
+research of reading, introduce the students to its main experimental paradigms
+and the basic approaches to data collection and reduction. 
 
 ### Practical training session with an eye-tracker (offline only)
 
 *Instructor: Svetlana Alexeeva*
 
-This workshop will consist of a series of hands-on sessions designed to help learners incorporate eye-tracking methodologies in their research. The first section is an introduction to eye tracking covering eye physiology, basic eye movements and oculomotor events measured. The second section will cover eye-tracking hardware, focusing on types of equipment and participant setup. The third practical training session will focus on recording eye movements of participants scanning social media webpages. The final session will cover data export and analysis.
+This workshop will consist of a series of hands-on sessions designed to help
+learners incorporate eye-tracking methodologies in their research. The first
+section is an introduction to eye tracking covering eye physiology, basic eye
+movements and oculomotor events measured. The second section will cover
+eye-tracking hardware, focusing on types of equipment and participant setup. The
+third practical training session will focus on recording eye movements of
+participants scanning social media webpages. The final session will cover data
+export and analysis.
 
 ### Online experiments: PsychoPy & Pavlovia tutorial
 
 *Instructor: Elena Gorbunova*
 
-Online experimentation has enabled relatively cheap and fast data collection on a massive scale, making familiarity with various toolkits for online experiments an indispensable skill for researchers. This tutorial offers an overview of one such platform, Pavlovia, which is based on the PsychoPy software package. Students will practice building their own experiments in PsychoPy and transferring them to Pavlovia.
+Online experimentation has enabled relatively cheap and fast data collection on
+a massive scale, making familiarity with various toolkits for online experiments
+an indispensable skill for researchers. This tutorial offers an overview of one
+such platform, Pavlovia, which is based on the PsychoPy software package.
+Students will practice building their own experiments in PsychoPy and
+transferring them to Pavlovia.
 
 ### Studying social norms with behavioral experiments
 
@@ -142,7 +195,15 @@ Online experimentation has enabled relatively cheap and fast data collection on 
 
 ## Travel
 
-Due to the challenges of the global pandemic, we will be unable to provide full support with travel, accomodation, and visa application. It is also impossible to foresee what travel limitations will be in place in July 2021 and whether it will be possible to issue a visa on a short notice. Usually this process requires ten-thirteen weeks but in the present circumstances the procedure and its duration are unpredictable. Thus, if you are unsure whether you will be able to get a visa on time, we recommend that you participate online. We will be happy to answer any further questions regarding the possibility of your visit and assist to the extent possible. 
+Due to the challenges of the global pandemic, we will be unable to provide full
+support with travel, accomodation, and visa application. It is also impossible
+to foresee what travel limitations will be in place in July 2021 and whether it
+will be possible to issue a visa on a short notice. Usually this process
+requires ten-thirteen weeks but in the present circumstances the procedure and
+its duration are unpredictable. Thus, if you are unsure whether you will be able
+to get a visa on time, we recommend that you participate online. We will be
+happy to answer any further questions regarding the possibility of your visit
+and assist to the extent possible. 
 
 ## Contacts
 
