@@ -2,7 +2,7 @@ $('.ui.dropdown').dropdown();
 
 $('.ui.sidebar')
     .sidebar('attach events', '.toc.item')
-    .sidebar('attach events', '.sidebar a.item');;
+    .sidebar('attach events', '.sidebar a.item');
 
 $(document).ready(function() {
     $('.masthead').visibility({
