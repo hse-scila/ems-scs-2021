@@ -7,45 +7,72 @@
 ## About the school
 
 ### Focus
-EMS-SCS Summer School will introduce participants to applications of experimental methods across social, behavioral and cognitive sciences while also providing hands-on training in a number of state-of-the-art experimental and simulation tools and techniques. 
 
-The School will consist of up to nine courses and tutorials including both theoretical lectures and practical workshops. The working language of the School is English.
+EMS-SCS Summer School will introduce participants to applications of
+experimental methods across social, behavioral and cognitive sciences while also
+providing hands-on training in a number of state-of-the-art experimental and
+simulation tools and techniques.
+
+The School will consist of up to nine courses and tutorials including both
+theoretical lectures and practical workshops. The working language of the School
+is English.
 
 ### Audience
 
-The school is designed to accommodate both seasoned scholars of social and cognitive sciences looking to sharpen their methodological skills, and early-career researchers who are relatively new to experimentation and simulation. Advanced PhD students are also welcome. 
+The school is designed to accommodate both seasoned scholars of social and
+cognitive sciences looking to sharpen their methodological skills, and
+early-career researchers who are relatively new to experimentation and
+simulation. Advanced PhD students are also welcome.
 
 ### Organizer
 
-National Research University [Higher School of Economics](https://hse.ru/en/) (HSE), [Laboratory for Social and Cognitive Informatics](https://scila.hse.ru/en/) (SCILA). 
+National Research University [Higher School of Economics](https://hse.ru/en/)
+(HSE), [Laboratory for Social and Cognitive
+Informatics](https://scila.hse.ru/en/) (SCILA).
 
 ## Participation
 
 ### Location and format
 
-The summer school will be held in a mixed format. Most activities will be online, but those willing and able to attend in person will have an opportunity to take classes and socialize on the campus of the Higher School of Economics in Saint Petersburg, Russia. One workshop will be offline-only; an alternative online activity will be scheduled for the same time slot for those attending virtually. 
+The summer school will be held in a mixed format. Most activities will be
+online, but those willing and able to attend in person will have an opportunity
+to take classes and socialize on the campus of the Higher School of Economics in
+Saint Petersburg, Russia. One workshop will be offline-only; an alternative
+online activity will be scheduled for the same time slot for those attending
+virtually.
 
-We will ensure that both online and offline participants have equal opportunity to be involved in the discussion. 
+We will ensure that both online and offline participants have equal opportunity
+to be involved in the discussion.
 
 ### How to apply?
 
-To apply, please submit the following [Google Form](https://forms.gle/r7FkcE3czRVWwotNA). Applications not accompanied by a CV will not be considered. After reviewing the applications, we will notify the participants about the acceptance. 
+To apply, please submit the following [Google
+Form](https://forms.gle/r7FkcE3czRVWwotNA). Applications not accompanied by a CV
+will not be considered. After reviewing the applications, we will notify the
+participants about the acceptance.
 
-Payment link will be sent to the participants via email after the reviewing process is finished.  
+Payment link will be sent to the participants via email after the reviewing
+process is finished.
 
-### Fees 
+### Fees
 
-We use a triple-tiered fee structure based on the World Bank's indicators of Gross National Income. You can read more about tier system [here](https://hse-scila.github.io/ems-scs-2021/tiers.html).
+We use a triple-tiered fee structure based on the World Bank's indicators of
+Gross National Income. You can read more about tier system
+[here](https://hse-scila.github.io/ems-scs-2021/tiers.html).
 
 | Track         | Tier A | Tier B | Tier C |
 | ------------- | ------ | ------ | ------ |
 | Non-academic  | 350 €  | 300 €  | 250 €  |
 | Academic      | 300 €  | 250 €  | 200 €  |
-| PhD students\* | 250 €  | 200 €  | 150 €  | 
+| PhD students\* | 250 €  | 200 €  | 150 €  |
 
 \* *Proof of enrollment during the Spring 2021 semester must be provided at the time of registration.*
 
-We will provide one merit-based scholarship in the amount of the participation fee to an applicant based in Russia who is currently enrolled as a full-time PhD student. All eligible applicants will be automatically considered for this tuition waiver, which will be awarded based on the evaluation of motivation letters. 
+We will provide one merit-based scholarship in the amount of the participation
+fee to an applicant based in Russia who is currently enrolled as a full-time PhD
+student. All eligible applicants will be automatically considered for this
+tuition waiver, which will be awarded based on the evaluation of motivation
+letters.
 
 ### Important dates
 
@@ -54,12 +81,18 @@ We will provide one merit-based scholarship in the amount of the participation f
 - June 16, 2021 — payment deadline.
 - July 1, 2021 — cancellation deadline (refund — 50% of the payment).  
 
-If you are willing to participate in person and you need a visa to enter Russia, we strongly recommend applying for it **as soon as possible** since it might require  up to  three months for the paperwork to be processed. Furthermore, amid the pandemic-induced uncertainty there can be no assurance that travel will go back to normal by July. If you pay the participation fee but ultimately find yourself unable to travel to St. Petersburg, you will be automatically enrolled as an online participant. More on the mixed format of the School and travel.
+If you are willing to participate in person and you need a visa to enter Russia,
+we strongly recommend applying for it **as soon as possible** since it might
+require  up to  three months for the paperwork to be processed. Furthermore,
+amid the pandemic-induced uncertainty there can be no assurance that travel will
+go back to normal by July. If you pay the participation fee but ultimately find
+yourself unable to travel to St. Petersburg, you will be automatically enrolled
+as an online participant. More on the mixed format of the School and travel.
 
 ### Cancellation policy
 
-If you need to cancel your registration, send us an email (do not forget to include your full name). 
-Please be aware of our refund policy: 
+If you need to cancel your registration, send us an email (do not forget to
+include your full name). Please be aware of our refund policy:
 
 - Refund until July 1: 50% of payment.
 - Cancellation/withdrawals received after July 1 will not be eligible for a refund.
@@ -68,15 +101,18 @@ Please be aware of our refund policy:
 
 ### [Reinhold Kliegl](https://www.uni-potsdam.de/en/trainingswissenschaft/staff/rkliegl)
 
-Senior Professor at the Division of Training and Movement Science, former chair of the Division of Cognitive Psychology, University of Potsdam
+Senior Professor at the Division of Training and Movement Science, former chair
+of the Division of Cognitive Psychology, University of Potsdam
 
 ### [Meghan Sanders](https://www.lsu.edu/manship/people/faculty-staff/sanders.php)
 
-Associate Professor and Director of Media Effects Lab at Manship School of Mass Communication, Louisiana State University
+Associate Professor and Director of Media Effects Lab at Manship School of Mass
+Communication, Louisiana State University
 
 ### [Martin Lukac](https://www.lse.ac.uk/Methodology/People/Academic-Staff/Martin-Lukac/Martin-Lukac)
 
-LSE Fellow in Computational Social Science in the Methodology Department at the London School of Economics
+LSE Fellow in Computational Social Science in the Methodology Department at the
+London School of Economics
 
 ### [Elena Gorbunova](https://www.hse.ru/en/staff/gorbunovaes)
 
@@ -163,7 +199,7 @@ participants should be ready to see and write some code during the course.
 
 The lecture will cover the basic assumptions and rationale of eye-tracking
 research of reading, introduce the students to its main experimental paradigms
-and the basic approaches to data collection and reduction. 
+and the basic approaches to data collection and reduction.
 
 ### Practical training session with an eye-tracker (offline only)
 
@@ -193,6 +229,19 @@ transferring them to Pavlovia.
 
 *Instructor: Philipp Chapkovski*
 
+From ‘Do we split the bills on our first date’ to ‘Should we offer a bribe to a
+road police officer’ our day-to-day behavior is largely driven by social norms.
+Social norms are our expectations about what others would do in a similar
+situation and what they expect us to do. Even if the norms are fundamental for
+understanding human behavior, studying how they appear, are maintained or die
+is a hard nut to crack. Standard observational methods such as surveys are
+often prone to social desirability bias and field observations are not always
+feasible. In this course we show how social norms can be studied by the way of
+behavioral experiments both in their statics (what kind of norms an individual
+follows in a specific context), and dynamics (what factors make the norms
+appear or fade out). Using the oTree platform we will learn how to design,
+program and conduct some pivotal experiments on social norms.
+
 ## Travel
 
 Due to the challenges of the global pandemic, we will be unable to provide full
@@ -203,7 +252,7 @@ requires ten-thirteen weeks but in the present circumstances the procedure and
 its duration are unpredictable. Thus, if you are unsure whether you will be able
 to get a visa on time, we recommend that you participate online. We will be
 happy to answer any further questions regarding the possibility of your visit
-and assist to the extent possible. 
+and assist to the extent possible.
 
 ## Contacts
 
