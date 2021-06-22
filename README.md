@@ -109,10 +109,11 @@ of the Division of Cognitive Psychology, University of Potsdam
 Associate Professor and Director of Media Effects Lab at Manship School of Mass
 Communication, Louisiana State University
 
-### [Martin Lukac](https://www.lse.ac.uk/Methodology/People/Academic-Staff/Martin-Lukac/Martin-Lukac)
+### [André Grow](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/andre_grow_3640/)
 
-LSE Fellow in Computational Social Science in the Methodology Department at the
-London School of Economics
+Research Scientist and Research Area Chair in the Laboratory of Digital and
+Computational Demography at the Max Planck Institute for Demographic Research,
+Rostock, Germany
 
 ### [Elena Gorbunova](https://www.hse.ru/en/staff/gorbunovaes)
 
@@ -179,7 +180,7 @@ causal.
 
 ### Agent-based modeling
 
-*Instructor: Martin Lukac*
+*Instructor: André Grow*
 
 Social simulations in virtual research environments allow researchers to gain
 new insights into the complex ways that societies function. In this course, we
