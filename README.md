@@ -206,6 +206,10 @@ and the basic approaches to data collection and reduction.
 
 *Instructor: Svetlana Alexeeva*
 
+*Teaching assistant: Vladislav Zubov*, Assistant
+Lecturer, Saint Petersburg State University, Ludmila Verbitskaya Department of
+General Linguistics.
+
 This workshop will consist of a series of hands-on sessions designed to help
 learners incorporate eye-tracking methodologies in their research. The first
 section is an introduction to eye tracking covering eye physiology, basic eye
